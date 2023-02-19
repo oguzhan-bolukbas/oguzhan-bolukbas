@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+![Github Stats of Oğuzhan Bölükbaş](https://github-readme-stats.vercel.app/api?username=oguzhan-bolukbas&show_icons=true)
 
 <!--
 **oguzhan-bolukbas/oguzhan-bolukbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
