@@ -6,6 +6,8 @@
 
 ![Github Stats of Oğuzhan Bölükbaş](https://github-readme-stats.vercel.app/api?username=oguzhan-bolukbas&show_icons=true)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/kaan-keskin/kaan-keskin/output/github-contribution-grid-snake.svg)
+
 <!--
 **oguzhan-bolukbas/oguzhan-bolukbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
