@@ -1,5 +1,6 @@
 # 👋 Welcome my friend!
-#### 🌱 I’m currently learning C++. 
+#### 🌱 I’m currently learning C++, DevOps culture and Linux env.
+
 #### 📫 How you can reach me -> https://www.linkedin.com/in/oguzhan-bolukbas/
 
 ## 🤔 Here is my Github status:
