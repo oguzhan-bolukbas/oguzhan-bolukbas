@@ -1,10 +1,14 @@
-# Hi, welcome 👋 
+# 👋 Welcome my friend!
 #### 🌱 I’m currently learning C++. 
-#### 📫 How to reach me: https://www.linkedin.com/in/oguzhan-bolukbas/
+#### 📫 How you can reach me -> https://www.linkedin.com/in/oguzhan-bolukbas/
 
-## Here is my Github status 🤔
+## 🤔 Here is my Github status:
 
 ![Github Stats of Oğuzhan Bölükbaş](https://github-readme-stats.vercel.app/api?username=oguzhan-bolukbas&show_icons=true)
+
+## 🐍 Why I am developing things more frequent, because:
+
+![Snake animation](https://github.com/oguzhan-bolukbas/oguzhan-bolukbas/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **oguzhan-bolukbas/oguzhan-bolukbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
