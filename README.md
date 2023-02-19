@@ -1,4 +1,8 @@
-# Hi there 👋
+# Hi, welcome 👋 
+## 🌱 I’m currently learning C++. 
+### 📫 How to reach me: https://www.linkedin.com/in/oguzhan-bolukbas/
+
+# Here is my Github status 🤔
 
 ![Github Stats of Oğuzhan Bölükbaş](https://github-readme-stats.vercel.app/api?username=oguzhan-bolukbas&show_icons=true)
 
