@@ -7,7 +7,7 @@
 
 ![Github Stats of Oğuzhan Bölükbaş](https://github-readme-stats.vercel.app/api?username=oguzhan-bolukbas&show_icons=true)
 
-## 🐍 Why I am developing things more frequent, because:
+## 🐍 Why should I work harder, because I need to feed:
 
 ![Snake animation](https://github.com/oguzhan-bolukbas/oguzhan-bolukbas/blob/output/github-contribution-grid-snake.svg)
 
