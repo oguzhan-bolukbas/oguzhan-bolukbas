@@ -1,5 +1,5 @@
 # 👋 Welcome my friend!
-#### 🌱 I’m currently learning C++, DevOps culture and Linux env.
+#### 🌱 I’m currently learning DevOps culture and Linux env.
 
 #### 📫 How you can reach me -> https://www.linkedin.com/in/oguzhan-bolukbas/
 
@@ -7,7 +7,7 @@
 
 ![Github Stats of Oğuzhan Bölükbaş](https://github-readme-stats.vercel.app/api?username=oguzhan-bolukbas&show_icons=true)
 
-## 🐍 Why should I work harder, because I need to feed:
+## 🐍 I need to feed:
 
 ![Snake animation](https://github.com/oguzhan-bolukbas/oguzhan-bolukbas/blob/output/github-contribution-grid-snake.svg)
 
