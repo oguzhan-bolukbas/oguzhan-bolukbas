@@ -9,11 +9,7 @@
 
 ## 🐍 I need to feed:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/oguzhan-bolukbas/oguzhan-bolukbas/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **oguzhan-bolukbas/oguzhan-bolukbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
