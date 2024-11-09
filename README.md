@@ -7,7 +7,7 @@
 
 ![Github Stats of Oğuzhan Bölükbaş](https://github-readme-stats.vercel.app/api?username=oguzhan-bolukbas&show_icons=true)
 
-## 🐍 I need to feed:
+## Work hard, feed 🐍
 
 ![Snake animation](https://github.com/oguzhan-bolukbas/oguzhan-bolukbas/blob/output/github-contribution-grid-snake.svg)
 
