@@ -1,13 +1,9 @@
 # 👋 Welcome my friend!
-#### 🌱 I’m currently learning DevOps culture and Linux env.
+#### 🌱 I’m currently learning iOS, DevOps culture and Linux env.
 
-#### 📫 How you can reach me -> https://www.linkedin.com/in/oguzhan-bolukbas/
+#### 📫 How to reach me: https://www.linkedin.com/in/oguzhan-bolukbas/
 
-## 🤔 Here is my Github status:
-
-![Github Stats of Oğuzhan Bölükbaş](https://github-readme-stats.vercel.app/api?username=oguzhan-bolukbas&show_icons=true)
-
-## Work hard, feed 🐍
+## Work hard, feed the 🐍
 
 ![Snake animation](https://github.com/oguzhan-bolukbas/oguzhan-bolukbas/blob/output/github-contribution-grid-snake.svg)
 
