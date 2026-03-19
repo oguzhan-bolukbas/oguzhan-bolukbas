@@ -1,5 +1,5 @@
 # 👋 Welcome my friend!
-#### 🌱 I’m currently learning iOS, DevOps culture and Linux env.
+#### 🌱 I’m currently working on DevOps and Linux env.
 
 #### 📫 How to reach me: https://www.linkedin.com/in/oguzhan-bolukbas/
 
